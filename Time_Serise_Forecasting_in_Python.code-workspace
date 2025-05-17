@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"python.REPL.sendToNativeREPL": true
+		"python.REPL.sendToNativeREPL": false,
+		"python.REPL.enableREPLSmartSend": true
 	}
 }
